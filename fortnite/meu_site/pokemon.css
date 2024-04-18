@@ -1,0 +1,42 @@
+body{
+    width: 1024px;
+    margin: 0 auto;
+}
+.conteiner {
+    display :flex
+}
+.content {
+    flex : 1
+}
+p{
+    font-size:25px;
+    color: white;
+}
+.triste{
+    background-color:rgb(0, 132, 255);
+    border-radius: 10px;
+    font-size: 18px;
+}
+h1{
+    text-align: center;
+}
+ul{
+    font-size:25px;
+}
+
+span{
+    color: gray;
+}
+strong{
+    font-size:25px;
+}
+.content{
+    list-style:none;
+}
+li{
+    color: black;
+    font-size:35px;
+}
+.dudagay{
+    margin-right:10px;
+}
